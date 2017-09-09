@@ -1,0 +1,16 @@
+PODS:
+  - NTOnboarding (0.1.0)
+
+DEPENDENCIES:
+  - NTOnboarding (from `../`)
+
+EXTERNAL SOURCES:
+  NTOnboarding:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NTOnboarding: 82318e2cc1aaa91064d65d5b4c640d89e0ac3c74
+
+PODFILE CHECKSUM: 2d24cbf65e93d031a852cb1b44165a07756f87ff
+
+COCOAPODS: 1.2.1
