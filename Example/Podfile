@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NTOnboarding_Example' do
+  pod 'NTOnboarding', :path => '../'
+
+  target 'NTOnboarding_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
